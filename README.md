@@ -32,10 +32,11 @@
 
 ### 📈 GitHub 
 
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=lucasmascarenhas01&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmascarenhas01&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![AB's github stats](https://github-readme-stats.vercel.app/api?username=lucasmascarenhas01&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmascarenhas01&layout=compact&langs_count=10&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmascarenhas01&show_icons=true&theme=radical)
 
----
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/122394807/211657175-1a69c0ce-dc37-4471-b4fe-4b4490d5360c.gif" width="300px"/>
