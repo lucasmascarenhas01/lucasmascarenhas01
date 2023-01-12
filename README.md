@@ -32,8 +32,8 @@
 
 ### 📈 GitHub 
 
-[![Lucas Mascarenhas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmascarenhas01)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Lucas Mascarenhas](https://github-readme-stats.vercel.app/api?username=lucasmascarenhas01&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Mascarenhas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmascarenhas01&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
