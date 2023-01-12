@@ -32,7 +32,7 @@
 
 ### 📈 GitHub 
 
-![AB's github stats](https://github-readme-stats.vercel.app/api?username=lucasmascarenhas01&count_private=true&show_icons=true&theme=radical)
+![AB's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmascarenhas01&layout=compact&langs_count=10&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmascarenhas01&show_icons=true&theme=radical)
 
