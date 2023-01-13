@@ -36,6 +36,7 @@
 [![Lucas Mascarenhas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmascarenhas01&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/122394807/211657175-1a69c0ce-dc37-4471-b4fe-4b4490d5360c.gif" width="300px"/>
 </div>
