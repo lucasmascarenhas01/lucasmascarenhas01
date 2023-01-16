@@ -1,3 +1,6 @@
+# 👨🏽‍💻 Lucas Mascarenhas
+**`Web Developer Junior`**
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil!;)](https://git.io/typing-svg)
 - 🔭 Atualmente estou trabalhando em montar e solidificar meu portifolio! Link em breve! =) ...
 - 🌱 No momento estou aprendendo ReactJs e Node.js ...
